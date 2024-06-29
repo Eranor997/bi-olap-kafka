@@ -14,4 +14,7 @@
   
 ![image](https://github.com/Eranor997/bi-olap-kafka/assets/103460271/e5d1907c-639d-4e3a-9b6d-5a2d3f87c40b)
   
-<p>5) Скрипт для чтения данных на основе скрипта с git kafka (./src/consumer.py)
+<p>5) Читаем данные из кафки
+
+![image](https://github.com/Eranor997/bi-olap-kafka/assets/103460271/23f6ffd4-8d5a-45f0-88d7-73e7b0287c4b)
+
