@@ -10,6 +10,8 @@
 
   ![image](https://github.com/Eranor997/bi-olap-kafka/assets/103460271/2a146758-5170-43bc-ab4a-b61cb59c91b3)
 
-<p>3) Скрипт для заливки данных на основе скрипта с git kafka (./src/producer.py)
-<p>4) Запускаем скрипт, смотрим результат
+<p>3) Пишем скрипт, запускаем и смотрим результат
+  
+![image](https://github.com/Eranor997/bi-olap-kafka/assets/103460271/e5d1907c-639d-4e3a-9b6d-5a2d3f87c40b)
+  
 <p>5) Скрипт для чтения данных на основе скрипта с git kafka (./src/consumer.py)
